@@ -3,6 +3,7 @@
 
 void main()
 {
+  cout<<\n"Hello world";
   cout<<"\nHello Planet...";
   
 }
